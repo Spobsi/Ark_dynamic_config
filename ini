@@ -4,7 +4,7 @@ CropGrowthSpeedMultiplier
 HarvestAmountMultiplier
 MatingIntervalMultiplier
 MatingSpeedMultiplier
-TamingSpeedMultiplier
+TamingSpeedMultiplier=5
 XPMultiplier
 BabyCuddleIntervalMultiplier
 BabyImprintAmountMultiplier
